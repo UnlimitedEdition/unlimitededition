@@ -11,8 +11,9 @@
 > Every repo keeps its own row up to date. See [CONTRIBUTING-REGISTRY.md](./CONTRIBUTING-REGISTRY.md) for the write protocol.
 
 <!-- PROJECTS:START -->
-| Projekat | Opis | Status | Tech | Verzija |
+| Projekat | Opis | Status | Tech | ⭐ |
 | --- | --- | --- | --- | --- |
+| [security-scanner](https://github.com/UnlimitedEdition/security-scanner) | Pasivni web security skener — 240+ provera (TLS, headers, DNS, GDPR, SEO, perf), bez exploit payload-a | 🟢 Aktivno · v4.2.0 | Python · FastAPI | 4 |
 <!-- PROJECTS:END -->
 
 ---
