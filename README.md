@@ -13,7 +13,7 @@
 <!-- PROJECTS:START -->
 | Projekat | Opis | Status | Tech | ⭐ |
 | --- | --- | --- | --- | --- |
-| [Dm-mont](https://github.com/UnlimitedEdition/Dm-mont) | Var Sistem — weld traceability + fabrikacija + kontrola kvaliteta, terenski-prvo (offline PWA), multi-tenant Supabase (RLS + RBAC, offline→sync) | 🔵 Eksperiment | Next.js · Supabase | 0 |
+| [Dm-mont](https://github.com/UnlimitedEdition/Dm-mont) | Var Sistem — weld traceability + fabrikacija + kontrola kvaliteta, terenski-prvo (offline PWA), multi-tenant Supabase (RLS + RBAC) | 🟢 Aktivno · v0.1.0 | Next.js · Supabase | 0 |
 | [security-scanner](https://github.com/UnlimitedEdition/security-scanner) | Pasivni web security skener — 240+ provera (TLS, headers, DNS, GDPR, SEO, perf), bez exploit payload-a | 🟢 Aktivno · v4.2.0 | Python · FastAPI | 4 |
 <!-- PROJECTS:END -->
 
