@@ -77,17 +77,40 @@ gradi zajedničku community bazu barkodova. FastAPI backend + Expo (React Native
 | Projekat | Opis | Status | Tech | ⭐ |
 | --- | --- | --- | --- | --- |
 | [apartmanijovca](https://github.com/UnlimitedEdition/apartmanijovca) | Sajt za kratkoročni najam apartmana (Bovan) — rezervacije, gostinski portal, višejezičnost | 🟢 Aktivno | TypeScript · Next.js · Supabase | 0 |
+| [autoflow-login](https://github.com/UnlimitedEdition/autoflow-login) | Lična web aplikacija za automatizaciju sa predefinisanim šablonima workflow-a bez potrebe za kodiranjem | 🟡 Održavanje | React · TypeScript · Supabase | 0 |
+| [Bovan](https://github.com/UnlimitedEdition/Bovan) | Starter template sa Astro, Tailwind i Netlify serverless mogućnostima za pokretanje modernog web sajta | 🟡 Održavanje | Astro · React · Tailwind | 0 |
+| [de](https://github.com/UnlimitedEdition/de) | Vite/React/TypeScript sajt (Lovable projekat) sa Supabase bazom i sr/en/de prevodima sadržaja | 🟡 Održavanje | Vite · React · Supabase | 0 |
 | [digitalni-meni](https://github.com/UnlimitedEdition/digitalni-meni) | Digitalni meni za ugostiteljske objekte | 🟢 Aktivno | TypeScript · Next.js | 0 |
 | [Dm-mont](https://github.com/UnlimitedEdition/Dm-mont) | Var Sistem — sledljivost zavarivanja, fabrikacija i kontrola kvaliteta (multi-tenant, web + mobilni) | 🟢 Aktivno | TypeScript · Next.js · Supabase | 0 |
+| [eco-srce-srbije](https://github.com/UnlimitedEdition/eco-srce-srbije) | Ekološki blog i vebsajt sa praktičnim savetima za održiv život u Srbiji | 🟡 Održavanje | React · Vite · TypeScript | 0 |
 | [fakture-online](https://github.com/UnlimitedEdition/fakture-online) | Online fakturisanje za freelancere, paušalce i male firme u Srbiji | 🟢 Aktivno | TypeScript · Next.js · Supabase | 0 |
 | [FastFood-BrzoJelo](https://github.com/UnlimitedEdition/FastFood-BrzoJelo) | Aplikacija za fast-food poručivanje — meni, mapa dostave i QR kodovi | 🟢 Aktivno | TypeScript · Next.js · Supabase | 0 |
+| [fitness-suplementi-platforma](https://github.com/UnlimitedEdition/fitness-suplementi-platforma) | Kompletna full-stack platforma za prodaju suplemenata i trenerskih programa sa naprednim multi-role panelima | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| [insight-stream-52](https://github.com/UnlimitedEdition/insight-stream-52) | Aplikacija za praćenje kretanja akcija sa mogućnošću čuvanja omiljenih, prikaza tržišnih vesti i detaljnih analiza | 🟡 Održavanje | React · TypeScript · Supabase | 0 |
+| [Laser-finansije-dashboard](https://github.com/UnlimitedEdition/Laser-finansije-dashboard) | Aplikacija za praćenje potrošnje materijala, prihoda i profita u laserskoj radionici sa automatskom sinhronizacijom podataka preko GitHub-a | 🟡 Održavanje | JavaScript · Node.js · Chart.js | 1 |
+| [laserwood-design](https://github.com/UnlimitedEdition/laserwood-design) | Sajt za predstavljanje usluga laserskog sečenja i graviranja drvenih proizvoda sa galerijom radova | 🟡 Održavanje | HTML · Tailwind CSS · JavaScript | 0 |
+| [LogicLabs-Network](https://github.com/UnlimitedEdition/LogicLabs-Network) | Profesionalni marketinški i portfolio sajt za LogicLabs Network optimizovan za statičku isporuku, brz učitavanje stranica i jasan prikaz usluga, portfolija i kontakt kanala | 🟢 Aktivno | Astro · Tailwind CSS | 1 |
+| [meni](https://github.com/UnlimitedEdition/meni) | Statički digitalni meni picerije Ti Amo sa četiri teme, prikazom sastojaka/alergena i GDPR kolačić bannerom | 🟢 Aktivno | HTML · CSS · JavaScript | 1 |
+| [natali-showcase-hub](https://github.com/UnlimitedEdition/natali-showcase-hub) | Multimedijalni portal sa podcast-ima, pričama i gastronomskim sadržajem sa admin panelom i newsletter sistemom | 🟡 Održavanje | React · Supabase · TypeScript | 1 |
+| [Natalia-Show-DE](https://github.com/UnlimitedEdition/Natalia-Show-DE) | Višejezička veb aplikacija za prezentovanje različitih emisija i sadržaja sa dinamičkim upravljanjem preko Supabase-a | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| [next-store-vault](https://github.com/UnlimitedEdition/next-store-vault) | E-commerce platforma sa admin panelom za upravljanje proizvodima, korisnicima i narudžbinama | 🟡 Održavanje | React · Vite · Supabase | 0 |
 | [obsidian-vault](https://github.com/UnlimitedEdition/obsidian-vault) | Lični Obsidian vault — znanje, procedure i status projekata | 🟢 Aktivno | Markdown · Obsidian | 0 |
-| [pan-evo-biz-hub](https://github.com/UnlimitedEdition/pan-evo-biz-hub) | Poslovni direktorijum i microsite platforma za Pančevo | 🟡 Održavanje | TypeScript · React · Vite | 1 |
+| [pan-evo-biz-hub](https://github.com/UnlimitedEdition/pan-evo-biz-hub) | Poslovni direktorijum i microsite platforma za Pančevo | 🟢 Aktivno | TypeScript · React · Vite | 1 |
+| [PancevoBiz](https://github.com/UnlimitedEdition/PancevoBiz) | Lokalni direktorijum biznisa i usluga u Pančevu sa pretragom po kategorijama i premium profilima | 🔵 Eksperiment | React · TypeScript · Supabase | 0 |
+| [pipe-optimus-prime](https://github.com/UnlimitedEdition/pipe-optimus-prime) | Sistem za upravljanje inventarom cevi i optimizaciju rezanja sa algoritmima za minimizaciju otpada | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| [podsetnik-servis](https://github.com/UnlimitedEdition/podsetnik-servis) | Landing stranica sa signup formom za servis automatskih SMS i email podsetnika klijentima | 🟢 Aktivno | Next.js · React | 0 |
+| [ponuda](https://github.com/UnlimitedEdition/ponuda) | Statička HTML/CSS stranica sa poslovnom ponudom za izradu custom webshop platforme za ribolovačku radnju | 🟢 Aktivno | HTML · CSS · JavaScript | 0 |
 | [pratim-rokove](https://github.com/UnlimitedEdition/pratim-rokove) | Open-source praćenje rokova i isteka — skeniranje barkodova uz community bazu | 🟢 Aktivno | Python · FastAPI · React Native | 1 |
-| [protokol-alert-landing](https://github.com/UnlimitedEdition/protokol-alert-landing) | Landing stranica za Protokol Alert | 🟢 Aktivno | TypeScript · Next.js | 1 |
 | [Protokol-Alert](https://github.com/UnlimitedEdition/Protokol-Alert) | Multi-tenant praćenje rokova trajanja proizvoda za maloprodaju (admin + worker PWA) | 🟢 Aktivno · v1.2.0 | TypeScript · Next.js · Express | 1 |
+| [protokol-alert-landing](https://github.com/UnlimitedEdition/protokol-alert-landing) | Landing stranica za Protokol Alert | 🟢 Aktivno · v0.4.0 | TypeScript · Next.js | 1 |
+| [qrcodeeazy](https://github.com/UnlimitedEdition/qrcodeeazy) | Prazan repozitorijum — još bez koda i sadržaja | 🔵 Eksperiment | — | 0 |
+| [Qween](https://github.com/UnlimitedEdition/Qween) | Prazan repozitorijum bez opisa, koda ili konfiguracije — sadrži samo README sa naslovom projekta | 🔵 Eksperiment | — | 0 |
+| [represent](https://github.com/UnlimitedEdition/represent) | Statička prezentaciona stranica za lasersko graviranje i brendirane drvene proizvode (LaserWood Design) | 🔵 Eksperiment | HTML · CSS · JavaScript | 1 |
 | [security-scanner](https://github.com/UnlimitedEdition/security-scanner) | Pasivni web security skener — 240+ provera (TLS, headers, DNS, GDPR, SEO, perf), bez exploit payload-a | 🟢 Aktivno · v4.2.0 | Python · FastAPI | 4 |
+| [svet-ljiljine-maste](https://github.com/UnlimitedEdition/svet-ljiljine-maste) | Sajt za ručno rađene dekoracije sa katalogom po kategorijama i admin panelom za upravljanje sadržajem | 🟢 Aktivno | Next.js · Tailwind CSS · Framer Motion | 0 |
+| [T](https://github.com/UnlimitedEdition/T) | Konfigurator i storefront za lasersko gravirane table, privezke i 3D slova sa live cenom i PDF ponudama | 🟢 Aktivno | React · Vite · Supabase | 1 |
 | [termini-online](https://github.com/UnlimitedEdition/termini-online) | Booking SaaS za salone i ordinacije — multi-tenant, PWA, pretplate | 🟢 Aktivno | TypeScript · Next.js · Supabase | 1 |
+| [toske](https://github.com/UnlimitedEdition/toske) | Sajt za prezentaciju dizajn-inženjerskog studija sa portfoliom i informacijama | 🟢 Aktivno | Next.js · React · Tailwind CSS | 1 |
 | [toske-programer](https://github.com/UnlimitedEdition/toske-programer) | Personalni portfolio sajt sa AI asistentom (Gemini) | 🟢 Aktivno | TypeScript · React · Vite | 0 |
 <!-- PROJECTS:END -->
 
@@ -99,7 +122,7 @@ gradi zajedničku community bazu barkodova. FastAPI backend + Expo (React Native
 | Kategorija | Tehnologije |
 | --- | --- |
 | Languages | TypeScript · JavaScript · Python · SQL · Bash |
-| Frontend | Next.js · React · React Native (Expo) · Tailwind CSS · PWA |
+| Frontend | Next.js · React · React Native (Expo) · Astro · Vite · Tailwind CSS · PWA |
 | Backend | FastAPI · Express · Node.js |
 | Data | Supabase · PostgreSQL · RLS · pg_cron |
 | Security | OWASP · CSP · GDPR · Passive Scanning · JWT/RBAC |
