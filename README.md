@@ -77,6 +77,14 @@ reminders, calendar, staff and reports. Monthly plans, 7-day free trial.
 automatski podsetnici, kalendar, zaposleni i izveštaji. Mesečna pretplata, 7 dana besplatno.
 `TypeScript · Next.js · Supabase · Lemon Squeezy`
 
+### 📦 Pratim Rokove · open-source (u pripremi)
+
+**EN** — Open-source deadline & expiration tracker: scan a barcode, set the expiry, get alerts — every
+scan grows a shared community barcode database. FastAPI backend + Expo (React Native) mobile app.
+**SR** — Open-source praćenje rokova i isteka: skeniraj barkod, unesi rok, dobij podsetnik — svaki scan
+gradi zajedničku community bazu barkodova. FastAPI backend + Expo (React Native) mobilna aplikacija.
+`Python · FastAPI · React Native`
+
 ---
 
 ## 🗂️ Projects / Projekti
@@ -84,20 +92,49 @@ automatski podsetnici, kalendar, zaposleni i izveštaji. Mesečna pretplata, 7 d
 > 🔒 = privatni repo; link vodi na živi sajt. / _🔒 = private repo; the link goes to the live site._
 
 <!-- PROJECTS:START -->
-| Projekat | Opis | Status | Tech |
-| --- | --- | --- | --- |
-| [Protokol Alert](https://protokolalert.rs) 🔒 | Multi-tenant praćenje rokova trajanja za maloprodaju (PWA, admin, API, Android) | 🟢 Produkcija · v1.2.0 | TypeScript · Next.js · Express · Supabase |
-| [security-scanner](https://github.com/UnlimitedEdition/security-scanner) | Pasivni web security skener — 240+ provera, bez exploit payload-a | 🟢 Live · v4.2.0 | Python · FastAPI · Supabase |
-| [fakture-online](https://github.com/UnlimitedEdition/fakture-online) | Fakturisanje za paušalce i male firme — SEF, IPS QR, KPO knjiga | 🟢 Live | TypeScript · Next.js · Supabase |
-| [TerminiOnline](https://termini.gradovi.rs) 🔒 | Online zakazivanje za salone i ordinacije, pretplate | 🟢 Live | TypeScript · Next.js · Supabase |
-| [gradovi.rs](https://www.gradovi.rs) 🔒 | Imenik firmi sa mikrosajtovima za gradove Srbije (~310 stranica) | 🟢 Live | TypeScript · React · Supabase |
-| Var Sistem 🔒 | Sledljivost zavarivanja, NDT i kontrola kvaliteta (multi-tenant, web + mobilni) | 🟡 Web gotov, mobilna u izradi | TypeScript · Next.js · Supabase · Expo |
-| [Unlimited Edition apps](https://unlimited-edition-apps.vercel.app) 🔒 | 7 offline Android aplikacija + ToolNest (14 online alata) | 🟢 Live | Kotlin · Jetpack Compose · Python |
-| [Sve od nameštaja](https://sve-od-namestaja.vercel.app) 🔒 | Oglasnik za nameštaj sa pretragom po dimenzijama i prevozom | 🟡 Demo | TypeScript · Next.js · Supabase |
-| [FastFood-BrzoJelo](https://github.com/UnlimitedEdition/FastFood-BrzoJelo) | QR naručivanje, kuhinjski ekran i dostava za restorane | ⏸️ Pauzirano | TypeScript · Next.js · Supabase |
-| [apartmanijovca](https://github.com/UnlimitedEdition/apartmanijovca) | Sajt i rezervacije za apartmane — kalendar, admin, 4 jezika, automatski mejlovi | 🟢 Live | TypeScript · Next.js · Supabase |
-| Pratim Rokove 🔒 | Praćenje rokova sa skeniranjem barkoda i zajedničkom bazom (FastAPI + Expo) | 🟡 U razvoju | Python · FastAPI · React Native |
-| [toske-programer](https://toske-programer.web.app) 🔒 | Portfolio sa AI asistentom, admin panelom i 4 jezika | 🟢 Live | TypeScript · React · Vite · Supabase |
+| Projekat | Opis | Status | Tech | ⭐ |
+| --- | --- | --- | --- | --- |
+| [apartmanijovca](https://github.com/UnlimitedEdition/apartmanijovca) | Sajt i sistem za rezervacije apartmana na Bovanskom jezeru — kalendar, admin panel, gostinski portal, 4 jezika, automatski mejlovi | 🟢 Live | TypeScript · Next.js · Supabase | 0 |
+| autoflow-login 🔒 | Lična web aplikacija za automatizaciju sa predefinisanim šablonima workflow-a bez potrebe za kodiranjem | 🟡 Održavanje | React · TypeScript · Supabase | 0 |
+| [Bovan](https://github.com/UnlimitedEdition/Bovan) | Starter template sa Astro, Tailwind i Netlify serverless mogućnostima za pokretanje modernog web sajta | 🟡 Održavanje | Astro · React · Tailwind | 0 |
+| de 🔒 | Vite/React/TypeScript sajt sa Supabase bazom i sr/en/de prevodima sadržaja | 🟡 Održavanje | Vite · React · Supabase | 0 |
+| digitalni-meni 🔒 | Digitalni QR meni za ugostiteljske objekte | 🟢 Aktivno | TypeScript · Next.js | 0 |
+| [Dm-mont](https://war-system-phi.vercel.app) 🔒 | Var Sistem — sledljivost zavarivanja, NDT, fabrikacija i kontrola kvaliteta (multi-tenant, web + mobilni za teren) | 🟢 Web gotov · mobilna u izradi | TypeScript · Next.js · Supabase · Expo | 0 |
+| [eco-srce-srbije](https://srpski-eko-saveti.web.app) 🔒 | Srpski Eco Saveti — blog o održivom životu sa PDF vodičima, AdSense i affiliate monetizacijom | 🟢 Live | React · Vite · TypeScript | 0 |
+| [fakture-online](https://github.com/UnlimitedEdition/fakture-online) | Online fakturisanje za freelancere, paušalce i male firme u Srbiji — SEF, IPS QR, KPO knjiga, uvoz izvoda | 🟢 Live | TypeScript · Next.js · Supabase | 0 |
+| [FastFood-BrzoJelo](https://github.com/UnlimitedEdition/FastFood-BrzoJelo) | BrzoJelo — QR naručivanje, kuhinjski ekran, dostava sa GPS praćenjem i admin panel za restorane | ⏸️ Pauzirano | TypeScript · Next.js · Supabase · Zustand | 0 |
+| [fitness-suplementi-platforma](https://github.com/UnlimitedEdition/fitness-suplementi-platforma) | Kompletna full-stack platforma za prodaju suplemenata i trenerskih programa sa naprednim multi-role panelima | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| insight-stream-52 🔒 | Aplikacija za praćenje kretanja akcija sa mogućnošću čuvanja omiljenih, prikaza tržišnih vesti i detaljnih analiza | 🟡 Održavanje | React · TypeScript · Supabase | 0 |
+| [Laser-finansije-dashboard](https://github.com/UnlimitedEdition/Laser-finansije-dashboard) | Aplikacija za praćenje potrošnje materijala, prihoda i profita u laserskoj radionici sa automatskom sinhronizacijom podataka preko GitHub-a | 🟡 Održavanje | JavaScript · Node.js · Chart.js | 1 |
+| [laserwood-design](https://github.com/UnlimitedEdition/laserwood-design) | Sajt za predstavljanje usluga laserskog sečenja i graviranja drvenih proizvoda sa galerijom radova | 🟢 Live (GitHub Pages) | HTML · Tailwind CSS · JavaScript | 0 |
+| [LogicLabs-Network](https://github.com/UnlimitedEdition/LogicLabs-Network) | Profesionalni marketinški i portfolio sajt za LogicLabs Network optimizovan za statičku isporuku, brz učitavanje stranica i jasan prikaz usluga, portfolija i kontakt kanala | 🟢 Aktivno | Astro · Tailwind CSS | 1 |
+| [meni](https://github.com/UnlimitedEdition/meni) | Statički digitalni QR meni za piceriju sa četiri teme, prikazom sastojaka/alergena i GDPR kolačić bannerom | 🟢 Aktivno | HTML · CSS · JavaScript | 1 |
+| molerski-sajt 🔒 | Demo one-page sajt za molersku firmu sa kalkulatorom cene po m² | 🔵 Demo | HTML · CSS · JavaScript | 0 |
+| natali-showcase-hub 🔒 | Multimedijalni portal sa podcast-ima, pričama i gastronomskim sadržajem sa admin panelom i newsletter sistemom | 🟡 Održavanje | React · Supabase · TypeScript | 1 |
+| [Natalia-Show-DE](https://github.com/UnlimitedEdition/Natalia-Show-DE) | Višejezička veb aplikacija za prezentovanje različitih emisija i sadržaja sa dinamičkim upravljanjem preko Supabase-a | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| next-store-vault 🔒 | E-commerce platforma sa admin panelom za upravljanje proizvodima, korisnicima i narudžbinama | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| obsidian-vault 🔒 | Lični Obsidian vault — znanje, procedure i status projekata | 🟢 Aktivno | Markdown · Obsidian | 0 |
+| [open](https://unlimited-edition-apps.vercel.app) 🔒 | Unlimited Edition — 7 offline Android aplikacija (Kotlin, Compose) + ToolNest sa 14 online alata | 🟢 Live | Kotlin · Jetpack Compose · Python | 0 |
+| [pan-evo-biz-hub](https://www.gradovi.rs) 🔒 | gradovi.rs — imenik firmi sa mikrosajtovima za gradove Srbije (~310 indeksiranih stranica, plaćeni paketi) | 🟢 Live | TypeScript · React · Vite · Supabase | 1 |
+| PancevoBiz 🔒 | Lokalni direktorijum biznisa i usluga u Pančevu sa pretragom po kategorijama i premium profilima | 🔵 Eksperiment | React · TypeScript · Supabase | 0 |
+| pipe-optimus-prime 🔒 | Sistem za upravljanje inventarom cevi i optimizaciju rezanja sa algoritmima za minimizaciju otpada | 🟡 Održavanje | React · Vite · Supabase | 0 |
+| podsetnik-servis 🔒 | Landing stranica sa signup formom za servis automatskih SMS i email podsetnika klijentima | 🟢 Aktivno | Next.js · React | 0 |
+| ponuda 🔒 | Statička HTML/CSS stranica sa poslovnom ponudom za izradu custom webshop platforme za ribolovačku radnju | 🟢 Aktivno | HTML · CSS · JavaScript | 0 |
+| pratim-rokove 🔒 | Open-source praćenje rokova i isteka — skeniranje barkodova uz zajedničku bazu (repo još privatan) | 🟡 U razvoju | Python · FastAPI · React Native | 1 |
+| [Prodaja-namestaja](https://sve-od-namestaja.vercel.app) 🔒 | Sve od nameštaja — oglasnik za nameštaj sa pretragom po dimenzijama i dogovorom prevoza | 🟡 Demo | TypeScript · Next.js · Supabase | 0 |
+| [Protokol-Alert](https://protokolalert.rs) 🔒 | Multi-tenant praćenje rokova trajanja za maloprodaju — worker PWA, admin, API, Android; u produkciji od 04/2026 | 🟢 Produkcija · v1.2.0 | TypeScript · Next.js · Express · Supabase | 1 |
+| [protokol-alert-landing](https://protokolalert.rs) 🔒 | Landing stranica za Protokol Alert | 🟢 Aktivno · v0.4.0 | TypeScript · Next.js | 1 |
+| [qrcodeeazy](https://github.com/UnlimitedEdition/qrcodeeazy) | Prazan repozitorijum — još bez koda i sadržaja | 🔵 Eksperiment | — | 0 |
+| [Qween](https://github.com/UnlimitedEdition/Qween) | Prazan repozitorijum bez opisa, koda ili konfiguracije — sadrži samo README sa naslovom projekta | 🔵 Eksperiment | — | 0 |
+| [represent](https://github.com/UnlimitedEdition/represent) | Statička prezentaciona stranica za lasersko graviranje i brendirane drvene proizvode (LaserWood Design) | 🔵 Eksperiment | HTML · CSS · JavaScript | 1 |
+| [security-scanner](https://github.com/UnlimitedEdition/security-scanner) | Pasivni web security skener — 240+ provera (TLS, headers, DNS, GDPR, SEO, perf), bez exploit payload-a | 🟢 Aktivno · v4.2.0 | Python · FastAPI | 4 |
+| [svet-ljiljine-maste](https://svet-ljiljine-maste.vercel.app) 🔒 | Galerija ručno rađenih dekoracija sa albumima, naručivanjem preko WhatsApp-a/Instagrama i admin panelom | 🟢 Aktivno | Next.js · Tailwind CSS · Cloudinary | 0 |
+| [T](https://github.com/UnlimitedEdition/T) | Laser Wood konfigurator — live cena za gravirane table, privezke i 3D slova, PDF ponude | 🟢 Aktivno | React · Vite · Supabase | 1 |
+| [termini-online](https://termini.gradovi.rs) 🔒 | TerminiOnline — online zakazivanje za salone i ordinacije, podsetnici, pretplate (Basic / Pro) | 🟢 Live | TypeScript · Next.js · Supabase | 1 |
+| toske 🔒 | Sajt za prezentaciju dizajn-inženjerskog studija sa portfoliom i informacijama | 🟢 Aktivno | Next.js · React · Tailwind CSS | 1 |
+| [toske-programer](https://toske-programer.web.app) 🔒 | Portfolio sa AI asistentom (Gemini), admin panelom i 4 jezika | 🟢 Live | TypeScript · React · Vite · Supabase | 0 |
+| [WoodenHome-sajt](https://woodenhome.rs) 🔒 | Prezentacioni sajt za drvene kuće — SEO, JSON-LD, WebP galerija | 🟢 Live | TypeScript · Next.js · Tailwind CSS | 0 |
+| [zoran-filip](https://zoran-filip-transport.vercel.app) 🔒 | Sajt za prevoz kiperom i građevinski materijal | 🟢 Live | HTML · CSS · JavaScript | 0 |
 <!-- PROJECTS:END -->
 
 ---
@@ -108,7 +145,7 @@ automatski podsetnici, kalendar, zaposleni i izveštaji. Mesečna pretplata, 7 d
 | Kategorija | Tehnologije |
 | --- | --- |
 | Languages | TypeScript · JavaScript · Python · Kotlin · SQL |
-| Frontend | Next.js · React · Vite · Tailwind CSS · shadcn/ui · TanStack Query · Zustand |
+| Frontend | Next.js · React · Vite · Astro · Tailwind CSS · shadcn/ui · TanStack Query · Zustand |
 | Mobile | React Native (Expo) · Kotlin · Jetpack Compose · PWA |
 | Backend | Node.js · Express · FastAPI · Supabase Edge Functions |
 | Data | Supabase · PostgreSQL · RLS · pg_cron |
